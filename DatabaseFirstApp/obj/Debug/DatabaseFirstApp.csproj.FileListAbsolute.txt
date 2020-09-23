@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\EntityFrameworkFund\DatabaseFirstApp\bin\Debug\DatabaseFirstApp.exe.config
+C:\Users\ASUS\source\repos\EntityFrameworkFund\DatabaseFirstApp\bin\Debug\DatabaseFirstApp.exe
+C:\Users\ASUS\source\repos\EntityFrameworkFund\DatabaseFirstApp\bin\Debug\DatabaseFirstApp.pdb
+C:\Users\ASUS\source\repos\EntityFrameworkFund\DatabaseFirstApp\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\EntityFrameworkFund\DatabaseFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\EntityFrameworkFund\DatabaseFirstApp\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\EntityFrameworkFund\DatabaseFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\EntityFrameworkFund\DatabaseFirstApp\obj\Debug\DatabaseFirstApp.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EntityFrameworkFund\DatabaseFirstApp\obj\Debug\DatabaseFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EntityFrameworkFund\DatabaseFirstApp\obj\Debug\DatabaseFirstApp.csproj.CopyComplete
+C:\Users\ASUS\source\repos\EntityFrameworkFund\DatabaseFirstApp\obj\Debug\DatabaseFirstApp.exe
+C:\Users\ASUS\source\repos\EntityFrameworkFund\DatabaseFirstApp\obj\Debug\DatabaseFirstApp.pdb

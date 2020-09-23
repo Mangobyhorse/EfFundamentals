@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\bin\Debug\CodeFirstApp.exe.config
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\bin\Debug\CodeFirstApp.exe
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\bin\Debug\CodeFirstApp.pdb
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\obj\Debug\CodeFirstApp.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\obj\Debug\CodeFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\obj\Debug\CodeFirstApp.csproj.CopyComplete
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\obj\Debug\CodeFirstApp.exe
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\obj\Debug\CodeFirstApp.pdb
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\obj\Debug\CodeFirstApp.Migrations.deneme.resources
+C:\Users\ASUS\source\repos\EntityFrameworkFund\CodeFirstApp\obj\Debug\CodeFirstApp.csproj.GenerateResource.cache
